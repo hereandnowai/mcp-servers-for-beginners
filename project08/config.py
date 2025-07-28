@@ -1,0 +1,5 @@
+EMAIL_ADDRESS = "YOUR_EMAIL@gmail.com"
+EMAIL_PASSWORD = "YOUR_APP_PASSWORD"
+IMAP_SERVER = "imap.gmail.com"
+SMTP_SERVER = "smtp.gmail.com"
+SMTP_PORT = 587
