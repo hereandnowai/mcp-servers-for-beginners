@@ -4,7 +4,7 @@ import asyncio
 
 server_params = StdioServerParameters(
     command="python",              # The executable to run
-    args=["calculator_server.py"], # The server script (you’ll need to create this)
+    args=["mcp-20250807/calculator_server.py"], # The server script (you’ll need to create this)
     env=None                       # Optional: environment variables (None uses defaults)
 )
 
