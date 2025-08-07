@@ -12,7 +12,7 @@ load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
 model_name = "gemini-2.5-flash-lite"
 
-server_params = StdioServerParameters(command="python", args=["calculator_server.py"])
+server_params = StdioServerParameters(command="python3", args=["mcp-20250807/calculator_server.py"])
 
 class CalculatorInput(BaseModel):
     expression: str = Field(..., description="Mathematical expression to evaluate")
