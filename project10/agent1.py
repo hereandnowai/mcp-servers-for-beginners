@@ -12,3 +12,5 @@ print(f"Agent 1: Calculation complete. Result is {result}.")
 print("Agent 1: Storing result on the server.")
 response = client.set_value(key="calculation_result", value=str(result))
 print(f"Agent 1: Server response: {response}")
+
+

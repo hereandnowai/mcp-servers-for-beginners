@@ -1,0 +1,11 @@
+mcp
+openai
+langchain
+langchain-mcp-adapters
+langgraph
+langchain-google-genai
+langchain-ollama
+langchain-core
+google-adk
+
+

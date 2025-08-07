@@ -1,0 +1,7 @@
+mcp
+langchain-google-genai
+langchain
+langchain-community
+yfinance
+python-dotenv
+fastmcp
